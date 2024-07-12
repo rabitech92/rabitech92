@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Lab-Module](https://github.com/Ctech-Bangladesh/Lab-module)
 
-- 💬 Ask me about **java,spring,spring boot,mysql**
+- 💬 Ask me about **java, spring, spring boot,MySQL**
 
 - 📫 How to reach me **islamjnu92@gmail.com**
 
